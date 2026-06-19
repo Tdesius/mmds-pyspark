@@ -127,3 +127,17 @@ Each notebook is self-contained. PySpark requires Java 8+ installed and `JAVA_HO
 | Dinh Bui Khanh Huy | Task 3 · Report |
 
 *Ton Duc Thang University — Faculty of Information Technology*
+
+
+---
+
+## License
+
+This project (source code) is released under the [MIT License](LICENSE).
+
+## Data Credits
+
+- `gold_prices.csv` — Vietnamese SJC gold price data provided by the course instructor. Not redistributed in this repository.
+- `ratings2k.csv` — Rating dataset provided by the course instructor. Not redistributed in this repository.
+- `ratings20k.csv` — Synthetically generated dataset for scalability testing.
+- `dataset.csv` — Generated programmatically by `task1.ipynb` (random string corpus).
