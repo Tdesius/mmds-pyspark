@@ -1,0 +1,29 @@
+# Generated datasets (recreated by running notebooks)
+dataset.csv
+gold_prices.csv
+ratings2k.csv
+ratings20k.csv
+
+# PySpark temp files
+derby.log
+metastore_db/
+spark-warehouse/
+
+# Java
+*.class
+*.jar
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
